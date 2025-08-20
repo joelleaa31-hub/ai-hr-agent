@@ -1,5 +1,4 @@
 import ChatWidget from "../components/ChatWidget";
-
 export default function Page() {
   return (
     <main style={{ minHeight: "100vh", padding: "2rem" }}>
