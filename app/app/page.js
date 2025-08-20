@@ -1,4 +1,4 @@
-import ChatWidget from "../components/ChatWidget";
+import ChatWidget from "../../components/ChatWidget.jsx";
 export default function Page() {
   return (
     <main style={{ minHeight: "100vh", padding: "2rem" }}>
